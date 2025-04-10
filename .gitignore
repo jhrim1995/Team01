@@ -1,5 +1,4 @@
 **/webapp/WEB-INF/lib/
-<<<<<<< HEAD
 **/build/
 **/test01/
 
@@ -50,6 +49,3 @@ pom.xml.versionsBackup
 pom.xml.next
 release.properties
 dependency-reduced-pom.xml
-=======
-**/build/
->>>>>>> branch 'main' of https://github.com/jhrim1995/Team01.git
