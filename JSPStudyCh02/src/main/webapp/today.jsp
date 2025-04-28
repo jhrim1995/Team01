@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>오늘의 날짜</title>
+<title>오늘의 날짜 수정본</title>
 </head>
 <body>
 	<h1>우리는 쥐돌이</h1>
